@@ -52,11 +52,11 @@ main{
 .MainTitle{
     font-size: 65px;
     color: white;
-    text-shadow: 3px 3px darkorchid;
+    text-shadow: 3px 3px black;
 }
 .MainTitle:hover{
     font-size: 65px;
-    color: darkorchid;
+    color: black;
     text-shadow: 3px 3px white;
 }
 footer{
